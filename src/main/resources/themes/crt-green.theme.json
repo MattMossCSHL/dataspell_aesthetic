@@ -1,0 +1,172 @@
+{
+  "name": "crt-green",
+  "dark": true,
+  "author": "you",
+  "editorScheme": "/themes/crt-green.icls",
+  "ui": {
+    "*": {
+      "background": "#050806",
+      "foreground": "#B9FFC8",
+      "selectionBackground": "#0B2A14",
+      "selectionForeground": "#DFFFE7",
+      "inactiveBackground": "#040604",
+      "inactiveForeground": "#77B788",
+      "disabledForeground": "#3A6A46",
+      "separatorColor": "#0D1B11"
+    },
+
+    "Editor.background": "#050806",
+    "Editor.foreground": "#B9FFC8",
+    "Editor.caretColor": "#7CFF9D",
+    "Editor.selectionBackground": "#0B2A14",
+    "Editor.selectionForeground": "#DFFFE7",
+    "Editor.lineNumberForeground": "#2E6E3F",
+    "Editor.lineNumberActiveForeground": "#7CFF9D",
+    "Editor.indentGuide": "#0D1B11",
+    "Editor.indentGuideSelected": "#163522",
+    "Editor.whitespaceForeground": "#0F2517",
+
+    "TextField.background": "#050806",
+    "TextField.foreground": "#B9FFC8",
+    "TextField.inactiveForeground": "#77B788",
+
+    "Tree.background": "#050806",
+    "Tree.foreground": "#B9FFC8",
+    "Tree.selectionBackground": "#0B2A14",
+    "Tree.selectionForeground": "#DFFFE7",
+
+    "Panel.background": "#050806",
+    "Panel.foreground": "#B9FFC8",
+
+    "ToolWindow.background": "#050806",
+    "ToolWindow.Header.background": "#050806",
+    "ToolWindow.Header.inactiveBackground": "#040604",
+    "ToolWindow.Header.foreground": "#B9FFC8",
+    "ToolWindow.Header.inactiveForeground": "#77B788",
+
+    "TabbedPane.background": "#050806",
+    "TabbedPane.foreground": "#B9FFC8",
+    "TabbedPane.selectedForeground": "#DFFFE7",
+    "TabbedPane.contentAreaColor": "#050806",
+
+    "StatusBar.background": "#050806",
+    "StatusBar.foreground": "#77B788",
+
+    "Notification.background": "#07150D",
+    "Notification.foreground": "#B9FFC8",
+
+    "Button.background": "#07150D",
+    "Button.foreground": "#DFFFE7",
+    "Button.focusedBorderColor": "#7CFF9D",
+    "Button.disabledText": "#3A6A46",
+
+    "Link.activeForeground": "#7CFF9D",
+    "Link.foreground": "#7CFF9D",
+
+    "Notebook.background": "#050806",
+    "Notebook.editorBackground": "#050806",
+    "Notebook.cellBackground": "#050806",
+    "Notebook.markdownBackground": "#050806",
+    "Notebook.markdownCellBackground": "#050806",
+    "Notebook.cellBorderColor": "#0D1B11",
+    "Notebook.focusedCellBorderColor": "#163522",
+    "Notebook.outputBackground": "#07150D",
+    "Notebook.outputBorderColor": "#0D1B11",
+    "Notebook.gutterBackground": "#050806",
+    "Notebook.gutterForeground": "#2E6E3F",
+    "Notebook.executionCountForeground": "#4F8F63",
+    "Notebook.executionCountSelectedForeground": "#7CFF9D",
+    "Notebook.editorBorderColor": "#0D1B11",
+    "Notebook.cellToolbarBackground": "#050806",
+    "Notebook.cellToolbarForeground": "#77B788",
+    "Notebook.cellHoverBackground": "#050806",
+    "Notebook.cellStripeColor": "#0D1B11",
+    "Notebook.cellHeaderBackground": "#050806",
+    "Notebook.cellHeaderForeground": "#77B788",
+
+    "Jupyter.cellBorderColor": "#0D1B11",
+    "Jupyter.focusedCellBorderColor": "#163522",
+    "Jupyter.outputForeground": "#DFFFE7",
+    "Jupyter.markdownForeground": "#B9FFC8",
+
+    "Jupyter.background": "#050806",
+    "Jupyter.editorBackground": "#050806",
+    "Jupyter.cellBackground": "#050806",
+    "Jupyter.markdownBackground": "#050806",
+    "Jupyter.outputBackground": "#07150D",
+    "Jupyter.outputBorderColor": "#0D1B11",
+    "Jupyter.gutterBackground": "#050806",
+    "Jupyter.gutterForeground": "#2E6E3F",
+    "Jupyter.executionCountForeground": "#4F8F63",
+    "Jupyter.executionCountSelectedForeground": "#7CFF9D",
+
+    "Console.background": "#050806",
+    "Console.foreground": "#B9FFC8",
+    "Console.promptForeground": "#7CFF9D",
+    "Console.stdinForeground": "#DFFFE7",
+    "Console.stdoutForeground": "#B9FFC8",
+    "Console.stderrForeground": "#FF4D4D",
+    "Console.infoForeground": "#72D6FF",
+    "Console.warningForeground": "#FFCC66",
+    "Console.errorForeground": "#FF4D4D",
+    
+    "ConsoleView.background": "#050806",
+    "ConsoleView.foreground": "#B9FFC8",
+    "ConsoleView.selectionBackground": "#0B2A14",
+    "ConsoleView.selectionForeground": "#DFFFE7",
+
+    "RunContent.background": "#050806",
+    "RunContent.foreground": "#B9FFC8",
+    
+    "EditorPane.background": "#050806",
+    "EditorPane.foreground": "#B9FFC8",
+
+    "DebuggerToolWindow.background": "#050806",
+    "DebuggerToolWindow.foreground": "#B9FFC8",
+    
+
+    "RunTab.background": "#050806",
+    "RunTab.foreground": "#B9FFC8",
+
+    "Terminal.background": "#050806",
+    "Terminal.foreground": "#B9FFC8",
+    "Terminal.selectionBackground": "#0B2A14",
+    "Terminal.selectionForeground": "#DFFFE7",
+
+    "Terminal.ansiBlack": "#050806",
+    "Terminal.ansiRed": "#FF4D4D",
+    "Terminal.ansiGreen": "#7CFF9D",
+    "Terminal.ansiYellow": "#FFCC66",
+    "Terminal.ansiBlue": "#72D6FF",
+    "Terminal.ansiMagenta": "#FF7AD9",
+    "Terminal.ansiCyan": "#77B788",
+    "Terminal.ansiWhite": "#DFFFE7",
+
+    "Terminal.ansiBrightBlack": "#0D1B11",
+    "Terminal.ansiBrightRed": "#FF6B6B",
+    "Terminal.ansiBrightGreen": "#39FF14",
+    "Terminal.ansiBrightYellow": "#FFD479",
+    "Terminal.ansiBrightBlue": "#8BE3FF",
+    "Terminal.ansiBrightMagenta": "#FF9DE6",
+    "Terminal.ansiBrightCyan": "#A7FF6A",
+    "Terminal.ansiBrightWhite": "#FFFFFF"
+  },
+
+  "icons": {
+    "ColorPalette": {
+      "Actions.Green": "#7CFF9D",
+      "Objects.Green": "#7CFF9D",
+      "Actions.Yellow": "#FFCC66",
+      "Objects.Yellow": "#FFCC66",
+      "Actions.Red": "#FF4D4D",
+      "Objects.Red": "#FF4D4D",
+      "Actions.Blue": "#72D6FF",
+      "Objects.Blue": "#72D6FF",
+      "Checkbox.Background.Default": "#050806",
+      "Checkbox.Background.Selected": "#0B2A14",
+      "Checkbox.Border.Default": "#2E6E3F",
+      "Checkbox.Border.Selected": "#7CFF9D",
+      "Checkbox.Foreground.Selected": "#DFFFE7"
+    }
+  }
+}

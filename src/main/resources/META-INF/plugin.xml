@@ -1,0 +1,19 @@
+<idea-plugin>
+  <id>crt.green.theme</id>
+  <name>CRT Green Terminal Theme</name>
+
+  <vendor>you</vendor>
+
+  <description><![CDATA[
+    green phosphor CRT-style UI theme for DataSpell / IntelliJ platform
+  ]]></description>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider
+      id="CRT_GREEN"
+      path="/themes/crt-green.theme.json"
+      />
+  </extensions>
+</idea-plugin>
