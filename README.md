@@ -15,7 +15,7 @@ on the same visual surface.
 
 screenshots
 
-(optional — add later)
+(add later)
 notebooks + python console + terminal side by side
 
 ⸻
